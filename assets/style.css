@@ -13,13 +13,15 @@ footer {
     width: 100%;
     height: 120px;
     background-color: #D7F5F4;
-    color: black;
+    color: white;
+    text-shadow: 1px 1px 1px darkgrey;
 }
 
 h1,
 h2 {
     text-align: center;
     letter-spacing: 4px;
+    background-color: transparent;
 }
 
 img {
@@ -38,6 +40,7 @@ ul {
 p {
     text-align: center;
     font-size: 30px;
+    background-color: transparent;
 }
 
 .card {
